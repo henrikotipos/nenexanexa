@@ -1,0 +1,281 @@
+{
+    "contassuperbet": {
+        "id": "contassuperbet",
+        "name": "CONTAS SUPERBET",
+        "description": "Se você busca uma maneira inteligente de maximizar seus ganhos nas apostas, conheça nossas contas Superbet geradas especialmente para a extração de bônus! Com essas contas, você poderá tirar o máximo proveito das promoções oferecidas pela casa de apostas.",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1298666475006984192/1298666548461965322/CONTASSUPERBET.png?ex=671bb679&is=671a64f9&hm=f352a766d1da33e06d40021b3933f097d53e8ece3fc20b134829aa6aded45fae&=&format=webp&quality=lossless&width=644&height=644",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-24T22:16:46.075Z",
+        "msgLocalization": {
+            "channelId": "1295996263451332628",
+            "messageId": "1299134536294072433"
+        },
+        "incomeTotal": 180,
+        "sellsTotal": 18
+    },
+    "contasbetano": {
+        "id": "contasbetano",
+        "name": "CONTAS BETANO 24H",
+        "description": "Se você busca uma maneira inteligente de maximizar seus ganhos nas apostas, conheça nossas contas Betano geradas especialmente para a extração de bônus! Com essas contas, você poderá tirar o máximo proveito das promoções oferecidas pela casa de apostas.",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1298666475006984192/1298666548038209546/CONTASBETANO.png?ex=671bb679&is=671a64f9&hm=1206bfd1c14c2f5ccd5c46cc7c311459bd6c439bb8b747662f63e89f818e9363&=&format=webp&quality=lossless&width=643&height=643",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-25T03:53:07.454Z",
+        "msgLocalization": {
+            "channelId": "1295996201652457502",
+            "messageId": "1299219183208366131"
+        }
+    },
+    "xtipscredits": {
+        "id": "xtipscredits",
+        "name": "XTIPS API CREDITS",
+        "description": "A API de Jogos para cassinos on-line da Nexus Store\nA Xtips é a solução perfeita para quem busca uma experiência de jogos incomparável. \nNossa API oferece uma vasta gama de jogos de slots e ao vivo, com um GRR extremamente baixo, potencializando os lucros do seu cassino.\n\nSuporte Eficiente:\nContamos com uma equipe de suporte técnico sempre disponível para resolver qualquer problema rapidamente. \nNossa rede de atendimento é ágil e confiável, garantindo que você tenha a assistência necessária sempre que precisar.\n\nAlta Performance com Servidores no Brasil:\nA Xtips utiliza servidores localizados no Brasil, o que assegura alta performance e estabilidade. \nIsso significa que seus jogadores desfrutarão de uma experiência fluida e rápida, sem interrupções.\n\nRecarga Facilitada com PIX\nFacilitamos o processo de recarga com a opção de Pix, tornando sua operação mais ágil e segura. Gerencie suas finanças de forma prática e eficiente, sem complicações.\n\nPor que escolher a Xtips?\nVariedade de Jogos: Com mais de 1.000 jogos de fornecedores líderes do setor, atendemos a todos os gostos.\nGRR Competitivo: Nossa taxa de retorno ao jogador (GRR) varia entre 9% e 15%, maximizando sua rentabilidade.\nSuporte Técnico Dedicado: Estamos sempre ao seu lado, prontos para oferecer soluções rápidas e eficazes.\nServidores de Alta Performance: Nossos servidores garantem a melhor experiência para os seus jogadores.\nNossos Fornecedores\nTrabalhamos com uma seleção de provedores renomados, incluindo:\n\nPROVEDORES\n\nPG SOFT\nSPRIBE\nPRAGMATIC\nEVOLUTION GAMING\nSMARTSOFT GAMING\nGALAXSYS\nEntre outros provedores",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1298666475006984192/1298666745858625546/tabelaprices.png?ex=671bb6a8&is=671a6528&hm=247d39417b3df4c9b6cd69fa9e0567b09c64ba1825cf3b213f10a0a670a9ab61&=&format=webp&quality=lossless&width=328&height=328",
+        "color": "none",
+        "price": "120",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "AGENT CODE: xclient387,AGENT TOKEN:5817935a-9a00-4a45-b9b9-989313ede7cb, AGENT SECRET:2cf6e421-91ab-419c-b7bc-a60d1bf32253,",
+            "AGENT CODE: xclient19,AGENT TOKEN:97dfbed2-4c0b-48a9-83f3-f70402aa8597, AGENT SECRET:481e3cf5-159d-490f-abbb-abca914a0b14,",
+            "AGENT CODE: xclient275,AGENT TOKEN:d68b41b4-1345-448f-86b4-265e067c13f3, AGENT SECRET:ff969e29-1a04-4f2c-9fc9-e7b687ced11a,",
+            "AGENT CODE: xclient122,AGENT TOKEN:a6308847-b7a2-431b-8991-99d2c4d356cb, AGENT SECRET:8d39fb92-1144-445f-8c5b-7518261afa66,"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-10-25T03:58:17.856Z",
+        "msgLocalization": {
+            "channelId": "1298334663756218460",
+            "messageId": "1299220484889776149"
+        },
+        "incomeTotal": 240,
+        "sellsTotal": 2
+    },
+    "teste": {
+        "id": "teste",
+        "name": "Não configurado(a).",
+        "description": "Não configurado(a).",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-29T18:05:57.829Z",
+        "msgLocalization": {
+            "channelId": "1295996201652457502",
+            "messageId": "1300883383857188938"
+        }
+    },
+    "tesdaa": {
+        "id": "tesdaa",
+        "name": "Não configurado(a).",
+        "description": "ㅤ",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-29T18:06:23.569Z",
+        "msgLocalization": {
+            "channelId": "1295996201652457502",
+            "messageId": "1300883491952656406"
+        }
+    },
+    "xtipsapicredits": {
+        "id": "xtipsapicredits",
+        "name": "XTIPS CREDITS (1.000) FICHAS",
+        "description": "A API de Jogos para cassinos on-line da Nexus Store\nA Xtips é a solução perfeita para quem busca uma experiência de jogos incomparável. \nNossa API oferece uma vasta gama de jogos de slots e ao vivo, com um GRR extremamente baixo, potencializando os lucros do seu cassino.",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1298666475006984192/1298666745858625546/tabelaprices.png?ex=67239fa8&is=67224e28&hm=1b2505afcf76a025389dbf41bb714e10eb576258bff135d5c9e8b6f5fca3c9c8&=&format=webp&quality=lossless&width=643&height=643",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-31T01:01:54.979Z",
+        "msgLocalization": {
+            "channelId": "1298334663756218460",
+            "messageId": "1301350457616105615"
+        }
+    },
+    "xtips5500": {
+        "id": "xtips5500",
+        "name": "XTIPS CREDITS (60.000) FICHAS",
+        "description": "Este produto oferece 60.000 fichas digitais, perfeitas para impulsionar a experiência dos seus jogadores. Com uma taxa de GGR de apenas 5%, você garante um ótimo retorno e mantém seus clientes engajados.",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "3200",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-31T01:09:33.370Z",
+        "msgLocalization": {
+            "channelId": "1298334663756218460",
+            "messageId": "1301352379672821811"
+        }
+    },
+    "xtips10000": {
+        "id": "xtips10000",
+        "name": "XTIPS CREDITS (33.300) FICHAS",
+        "description": "Este produto oferece 33.300 fichas digitais, perfeitas para impulsionar a experiência dos seus jogadores. Com uma taxa de GGR de apenas 6%, você garante um ótimo retorno e mantém seus clientes engajados.",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "2200",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-31T01:09:51.646Z",
+        "msgLocalization": {
+            "channelId": "1298334663756218460",
+            "messageId": "1301352456667664404"
+        }
+    },
+    "xtips21400": {
+        "id": "xtips21400",
+        "name": "XTIPS CREDITS (21.400) FICHAS",
+        "description": "Este produto oferece 21.400 fichas digitais, perfeitas para impulsionar a experiência dos seus jogadores. Com uma taxa de GGR de apenas 7%, você garante um ótimo retorno e mantém seus clientes engajados.",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "1700",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-31T01:11:19.511Z",
+        "msgLocalization": {
+            "channelId": "1298334663756218460",
+            "messageId": "1301352825431003250"
+        }
+    },
+    "xtips33300": {
+        "id": "xtips33300",
+        "name": "XTIPS CREDITS (10.000) FICHAS",
+        "description": "Este produto oferece 10.000 fichas digitais, perfeitas para impulsionar a experiência dos seus jogadores. Com uma taxa de GGR de apenas 8%, você garante um ótimo retorno e mantém seus clientes engajados.",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "900",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-31T01:11:43.652Z",
+        "msgLocalization": {
+            "channelId": "1298334663756218460",
+            "messageId": "1301352926056288258"
+        }
+    },
+    "xtips60000": {
+        "id": "xtips60000",
+        "name": "XTIPS CREDTIS (5.500) FICHAS",
+        "description": "Este produto oferece 5.500 fichas digitais, perfeitas para impulsionar a experiência dos seus jogadores. Com uma taxa de GGR de apenas 9%, você garante um ótimo retorno e mantém seus clientes engajados.",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "550",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-31T01:11:53.022Z",
+        "msgLocalization": {
+            "channelId": "1298334663756218460",
+            "messageId": "1301352965684199494"
+        }
+    },
+    "xtips1000": {
+        "id": "xtips1000",
+        "name": "XTIPS CREDITS (1.000) FICHAS",
+        "description": "Este produto oferece 1000 fichas digitais, perfeitas para impulsionar a experiência dos seus jogadores. Com uma taxa de GGR de apenas 10%, você garante um ótimo retorno e mantém seus clientes engajados.",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "120",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-10-31T01:14:17.604Z",
+        "msgLocalization": {
+            "channelId": "1298334663756218460",
+            "messageId": "1301353572168105994"
+        }
+    },
+    "methodssuperbet": {
+        "id": "methodssuperbet",
+        "name": "MENTORIA SUPERBET",
+        "description": "Quer maximizar seus ganhos em casas de apostas de forma segura?\nNossa mentoria exclusiva ensina a criar contas em massa na Superbet, aquecê-las e extrair bônus sem riscos de perder o montante investido.\n\nO que você irá aprender?\nCriação de Contas: Passo a passo sobre como criar contas na Superbet de forma correta e eficiente.\n\nAquecimento das Contas:\nTécnicas para aquecer suas contas, preparando-as para extrair bônus com segurança.\n\nExtração de Bônus:\ncomprovadas para acessar e utilizar os bônus oferecidos, minimizando riscos e maximizando retornos.",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-11-03T03:58:09.428Z",
+        "msgLocalization": {
+            "channelId": "1295996645279797258",
+            "messageId": "1302482359324774451"
+        }
+    },
+    "superbetmetodo": {
+        "id": "superbetmetodo",
+        "name": "MENTORIA SUPERBET",
+        "description": "Quer maximizar seus ganhos em casas de apostas de forma segura?\nNossa mentoria exclusiva ensina a criar contas em massa na Superbet, aquecê-las e extrair bônus sem riscos de perder o montante investido.\n\nO que você irá aprender?\nCriação de Contas: Passo a passo sobre como criar contas na Superbet de forma correta e eficiente.\n\nAquecimento das Contas:\nTécnicas para aquecer suas contas, preparando-as para extrair bônus com segurança.\n\nExtração de Bônus:\ncomprovadas para acessar e utilizar os bônus oferecidos, minimizando riscos e maximizando retornos.",
+        "thumbUrl": "none",
+        "bannerUrl": "https://images-ext-1.discordapp.net/external/tQ-avdrHS6bBj6RsCedrZoEKPbhnOFl-ohpyUhF7s_I/https/cdn.ereemby.com/attachments/1725919859161458imagem.png?format=webp&quality=lossless&width=643&height=643",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-11-03T04:00:17.974Z",
+        "msgLocalization": {
+            "channelId": "1295996645279797258",
+            "messageId": "1302482898254823497"
+        }
+    },
+    "fintech": {
+        "id": "fintech",
+        "name": "FINTECH PAYFAST",
+        "description": "A PayFast é a fintech ideal para quem quer gerenciar suas finanças e realizar métodos em casas de apostas. Com uma taxa operacional de apenas 10%, nossa plataforma é acessível e segura.\n\nDescubra como facilitar seus saques em casas de apostas de forma prática e eficaz.",
+        "thumbUrl": "none",
+        "bannerUrl": "https://images-ext-1.discordapp.net/external/VISoCoZMie1ET44RR1cYi8LKLhf7wO78xAqlnBi3ZGo/https/cdn.ereemby.com/attachments/17259208561828581imagem.png?format=webp&quality=lossless&width=643&height=643",
+        "color": "none",
+        "price": "900",
+        "role": "1299115778884374540",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-11-09T01:55:07.224Z",
+        "msgLocalization": {
+            "channelId": "1295996037864886303",
+            "messageId": "1304625280224071820"
+        }
+    }
+}

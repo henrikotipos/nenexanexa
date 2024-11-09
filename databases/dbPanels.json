@@ -1,0 +1,54 @@
+{
+    "32": {
+        "id": "32",
+        "embed": {
+            "title": "Não configurado(a).",
+            "description": "Não configurado(a).",
+            "color": "none",
+            "bannerUrl": "none",
+            "thumbUrl": "none",
+            "footer": "none"
+        },
+        "selectMenu": {
+            "placeholder": "Selecione um Produto"
+        },
+        "products": {
+            "xtips10000": {
+                "id": "xtips10000",
+                "emoji": "🛒"
+            }
+        },
+        "msgLocalization": {
+            "channelId": "1295996645279797258",
+            "messageId": "1302846259559665724"
+        }
+    },
+    "teste": {
+        "id": "teste",
+        "embed": {
+            "title": "Não configurado(a).",
+            "description": "Não configurado(a).",
+            "color": "none",
+            "bannerUrl": "none",
+            "thumbUrl": "none",
+            "footer": "none"
+        },
+        "selectMenu": {
+            "placeholder": "Selecione um Produto"
+        },
+        "products": {
+            "teste": {
+                "id": "teste",
+                "emoji": "🛒"
+            },
+            "xtips21400": {
+                "id": "xtips21400",
+                "emoji": "🛒"
+            }
+        },
+        "msgLocalization": {
+            "channelId": "1295996263451332628",
+            "messageId": "1299127956874203138"
+        }
+    }
+}

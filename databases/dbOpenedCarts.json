@@ -1,0 +1,38 @@
+{
+    "1299198373831774248": {
+        "page": "configuring-products-end",
+        "products": {
+            "p-contassuperbet": {
+                "messageId": "1299198377480683671",
+                "productId": "contassuperbet",
+                "productName": "CONTAS SUPERBET",
+                "productPrice": 10,
+                "productStock": 1,
+                "purchasePrice": 10,
+                "purchaseAmount": 1
+            }
+        },
+        "purchaseCoupon": {
+            "couponId": "none",
+            "couponDiscount": "none"
+        }
+    },
+    "1299216505535463424": {
+        "page": "configuring-products-end",
+        "products": {
+            "p-contassuperbet": {
+                "messageId": "1299216508299378710",
+                "productId": "contassuperbet",
+                "productName": "CONTAS SUPERBET",
+                "productPrice": 10,
+                "productStock": 13,
+                "purchasePrice": 10,
+                "purchaseAmount": 1
+            }
+        },
+        "purchaseCoupon": {
+            "couponId": "none",
+            "couponDiscount": "none"
+        }
+    }
+}

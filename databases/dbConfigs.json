@@ -1,0 +1,40 @@
+{
+    "ownerId": "none",
+    "channels": {
+        "channelLogsPrivId": "1295952794750160907",
+        "channelLogsPublicId": "1285282626713817149",
+        "categoryCartsId": "1295953437418061896"
+    },
+    "roles": {
+        "roleCustomerId": "1299115778884374540"
+    },
+    "images": {
+        "bannerUrl": "https://media.discordapp.net/attachments/1298666475006984192/1298666634348597281/fundonexus.png?ex=671bb68d&is=671a650d&hm=508491911c29b88f41575171ad8fe3f6a8cea82d16c4dc4d2108b148e0ea6802&=&format=webp&quality=lossless&width=1144&height=643",
+        "thumbUrl": "none"
+    },
+    "embeds": {
+        "color": "none"
+    },
+    "payments": {
+        "mpAcessToken": "none",
+        "paymentsOptions": {
+            "pix": true,
+            "balance": false,
+            "site": true,
+            "semiAuto": true
+        }
+    },
+    "balance": {
+        "bonusDeposit": 0,
+        "minimumDeposit": 0
+    },
+    "semiAuto": {
+        "pix": {
+            "key": "nexusdevs@gmail.com",
+            "keyType": "Email"
+        },
+        "qrCode": "https://cdn.discordapp.com/attachments/1216141282695708702/1218300310402105435/Barrinha.png?ex=66072994&is=65f4b494&hm=db6f9ce608da983495994a2c4fc49d18ead74fe8aacd8bd4e57edce96e02a392&"
+    },
+    "termsPurchase": "Termos e Condições de Uso\nAo acessar e utilizar nossa loja de contas, você concorda com os seguintes termos e condições. Caso não concorde, pedimos que não utilize nossos serviços.\n1- Aceitação dos Termos\nAo comprar uma conta em nossa loja, você confirma que leu, compreendeu e concorda com estes termos.\n2- Uso das Contas\nUso das Contas\nAs contas adquiridas são destinadas exclusivamente para uso pessoal e não devem ser compartilhadas ou revendidas. É de sua responsabilidade manter a segurança das informações da conta.\n3- Pagamentos e Reembolsos\nTodos os pagamentos são finais e não reembolsáveis, exceto em casos de erro comprovado na transação ou problema com a conta fornecida.\n4- Responsabilidade\nNão nos responsabilizamos por qualquer perda de acesso, suspensão ou fechamento de contas por parte de terceiros, incluindo casas de apostas ou plataformas de jogos.\n5- Propriedade Intelectual\nTodos os conteúdos e materiais da loja são protegidos por direitos autorais e não podem ser reproduzidos sem autorização expressa.\n6- Alterações nos Termos\nReservamo-nos o direito de modificar estes termos a qualquer momento. Quaisquer mudanças serão publicadas em nosso site, e o uso contínuo de nossos serviços implica aceitação das alterações.\n7- Contato\nPara quaisquer dúvidas ou esclarecimentos sobre estes termos, entre em contato conosco através do [e-mail/telefone].\nAgradecemos por escolher nossa loja!",
+    "newSales": true
+}

@@ -1,0 +1,9 @@
+{
+    "bemvindo15": {
+        "name": "bemvindo15",
+        "discount": 15,
+        "stock": 100,
+        "role": "none",
+        "minimumPurchase": "50"
+    }
+}

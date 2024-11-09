@@ -1,0 +1,32 @@
+{
+    "1002604103622479884": {
+        "ordersTotal": 1,
+        "paidsTotal": 10,
+        "lastPurchase": "2024-03-17T14:08:48.239Z"
+    },
+    "913947175803822121": {
+        "ordersTotal": 1,
+        "paidsTotal": 20,
+        "lastPurchase": "2024-08-06T20:23:03.437Z"
+    },
+    "1049092100119076874": {
+        "ordersTotal": 5,
+        "paidsTotal": 7.5,
+        "lastPurchase": "2024-09-16T18:35:56.618Z"
+    },
+    "1295825448759988258": {
+        "ordersTotal": 8,
+        "paidsTotal": 280,
+        "lastPurchase": "2024-11-09T02:25:20.989Z"
+    },
+    "978848116176453662": {
+        "ordersTotal": 2,
+        "paidsTotal": 130,
+        "lastPurchase": "2024-10-27T08:51:13.981Z"
+    },
+    "449399338477682698": {
+        "ordersTotal": 1,
+        "paidsTotal": 10,
+        "lastPurchase": "2024-11-03T03:53:46.569Z"
+    }
+}
